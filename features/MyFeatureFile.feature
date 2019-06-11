@@ -9,4 +9,4 @@ Feature:
     And Click on login
     Then I will see the first page and change!
     And Click on login
- 
+    And Add an extra Row!
