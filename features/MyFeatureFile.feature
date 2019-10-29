@@ -11,4 +11,5 @@ Feature:
     Then I will see the first page and change!
     And Click on login
     And Add an extra Row!
+    And Add an extra Row!
     
